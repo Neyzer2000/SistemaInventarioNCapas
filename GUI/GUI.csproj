@@ -5,7 +5,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5AD7C49C-A3B8-4324-AE1A-29998C722652}</ProjectGuid>
+    <ProjectGuid>{5BB78B7A-1BB1-44EF-B926-226405C457F3}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>GUI</RootNamespace>
     <AssemblyName>GUI</AssemblyName>
@@ -92,12 +92,12 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\BLL\BLL.csproj">
-      <Project>{e3422f30-10cf-4b9f-90e2-3abcb3a63f51}</Project>
+      <Project>{bcbd2880-f11a-4da1-932c-84f53062cc84}</Project>
       <Name>BLL</Name>
     </ProjectReference>
-    <ProjectReference Include="..\EL\EL.csproj">
-      <Project>{18bcc12c-c7d7-42a2-98b5-5d116a57dee2}</Project>
-      <Name>EL</Name>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{36200d85-a74f-41cc-a466-fd354c44d56f}</Project>
+      <Name>DAL</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
