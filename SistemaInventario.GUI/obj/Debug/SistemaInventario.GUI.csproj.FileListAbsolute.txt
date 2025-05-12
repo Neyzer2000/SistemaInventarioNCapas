@@ -1,0 +1,14 @@
+C:\Users\neyze\OneDrive\Escritorio\SistemaInventarioSolution\SistemaInventario.GUI\obj\Debug\SistemaInventario.GUI.csproj.AssemblyReference.cache
+C:\Users\neyze\OneDrive\Escritorio\SistemaInventarioSolution\SistemaInventario.GUI\obj\Debug\SistemaInventario.GUI.FrmCategorias.resources
+C:\Users\neyze\OneDrive\Escritorio\SistemaInventarioSolution\SistemaInventario.GUI\obj\Debug\SistemaInventario.GUI.FrmClientes.resources
+C:\Users\neyze\OneDrive\Escritorio\SistemaInventarioSolution\SistemaInventario.GUI\obj\Debug\SistemaInventario.GUI.FrmMenuPrincipal.resources
+C:\Users\neyze\OneDrive\Escritorio\SistemaInventarioSolution\SistemaInventario.GUI\obj\Debug\SistemaInventario.GUI.FrmProductos.resources
+C:\Users\neyze\OneDrive\Escritorio\SistemaInventarioSolution\SistemaInventario.GUI\obj\Debug\SistemaInventario.GUI.FrmUsuarios.resources
+C:\Users\neyze\OneDrive\Escritorio\SistemaInventarioSolution\SistemaInventario.GUI\obj\Debug\SistemaInventario.GUI.Properties.Resources.resources
+C:\Users\neyze\OneDrive\Escritorio\SistemaInventarioSolution\SistemaInventario.GUI\obj\Debug\SistemaInventario.GUI.csproj.GenerateResource.cache
+C:\Users\neyze\OneDrive\Escritorio\SistemaInventarioSolution\SistemaInventario.GUI\obj\Debug\SistemaInventario.GUI.csproj.CoreCompileInputs.cache
+C:\Users\neyze\OneDrive\Escritorio\SistemaInventarioSolution\SistemaInventario.GUI\bin\Debug\SistemaInventario.GUI.exe.config
+C:\Users\neyze\OneDrive\Escritorio\SistemaInventarioSolution\SistemaInventario.GUI\bin\Debug\SistemaInventario.GUI.exe
+C:\Users\neyze\OneDrive\Escritorio\SistemaInventarioSolution\SistemaInventario.GUI\bin\Debug\SistemaInventario.GUI.pdb
+C:\Users\neyze\OneDrive\Escritorio\SistemaInventarioSolution\SistemaInventario.GUI\obj\Debug\SistemaInventario.GUI.exe
+C:\Users\neyze\OneDrive\Escritorio\SistemaInventarioSolution\SistemaInventario.GUI\obj\Debug\SistemaInventario.GUI.pdb

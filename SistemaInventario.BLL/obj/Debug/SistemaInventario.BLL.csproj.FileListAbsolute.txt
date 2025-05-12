@@ -1,0 +1,14 @@
+C:\Users\neyze\OneDrive\Escritorio\SistemaInventarioSolution\SistemaInventario.BLL\bin\Debug\SistemaInventario.BLL.dll
+C:\Users\neyze\OneDrive\Escritorio\SistemaInventarioSolution\SistemaInventario.BLL\bin\Debug\SistemaInventario.BLL.pdb
+C:\Users\neyze\OneDrive\Escritorio\SistemaInventarioSolution\SistemaInventario.BLL\bin\Debug\SistemaInventario.DAL.dll
+C:\Users\neyze\OneDrive\Escritorio\SistemaInventarioSolution\SistemaInventario.BLL\bin\Debug\SistemaInventario.EL.dll
+C:\Users\neyze\OneDrive\Escritorio\SistemaInventarioSolution\SistemaInventario.BLL\bin\Debug\EntityFramework.dll
+C:\Users\neyze\OneDrive\Escritorio\SistemaInventarioSolution\SistemaInventario.BLL\bin\Debug\SistemaInventario.DAL.pdb
+C:\Users\neyze\OneDrive\Escritorio\SistemaInventarioSolution\SistemaInventario.BLL\bin\Debug\SistemaInventario.DAL.dll.config
+C:\Users\neyze\OneDrive\Escritorio\SistemaInventarioSolution\SistemaInventario.BLL\bin\Debug\SistemaInventario.EL.pdb
+C:\Users\neyze\OneDrive\Escritorio\SistemaInventarioSolution\SistemaInventario.BLL\bin\Debug\EntityFramework.xml
+C:\Users\neyze\OneDrive\Escritorio\SistemaInventarioSolution\SistemaInventario.BLL\obj\Debug\SistemaInventario.BLL.csproj.AssemblyReference.cache
+C:\Users\neyze\OneDrive\Escritorio\SistemaInventarioSolution\SistemaInventario.BLL\obj\Debug\SistemaInventario.BLL.csproj.CoreCompileInputs.cache
+C:\Users\neyze\OneDrive\Escritorio\SistemaInventarioSolution\SistemaInventario.BLL\obj\Debug\SistemaI.DE7E569D.Up2Date
+C:\Users\neyze\OneDrive\Escritorio\SistemaInventarioSolution\SistemaInventario.BLL\obj\Debug\SistemaInventario.BLL.dll
+C:\Users\neyze\OneDrive\Escritorio\SistemaInventarioSolution\SistemaInventario.BLL\obj\Debug\SistemaInventario.BLL.pdb
