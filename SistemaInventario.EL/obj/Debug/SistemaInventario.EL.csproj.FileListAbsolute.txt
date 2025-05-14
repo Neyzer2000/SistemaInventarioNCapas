@@ -1,0 +1,6 @@
+C:\Users\neyze\OneDrive\Escritorio\SistemaInventarioSolution\SistemaInventario.EL\bin\Debug\SistemaInventario.EL.dll
+C:\Users\neyze\OneDrive\Escritorio\SistemaInventarioSolution\SistemaInventario.EL\bin\Debug\SistemaInventario.EL.pdb
+C:\Users\neyze\OneDrive\Escritorio\SistemaInventarioSolution\SistemaInventario.EL\obj\Debug\SistemaInventario.EL.csproj.AssemblyReference.cache
+C:\Users\neyze\OneDrive\Escritorio\SistemaInventarioSolution\SistemaInventario.EL\obj\Debug\SistemaInventario.EL.csproj.CoreCompileInputs.cache
+C:\Users\neyze\OneDrive\Escritorio\SistemaInventarioSolution\SistemaInventario.EL\obj\Debug\SistemaInventario.EL.dll
+C:\Users\neyze\OneDrive\Escritorio\SistemaInventarioSolution\SistemaInventario.EL\obj\Debug\SistemaInventario.EL.pdb
